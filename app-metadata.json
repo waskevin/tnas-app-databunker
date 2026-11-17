@@ -1,0 +1,13 @@
+{
+  "name": "Databunker",
+  "source": "https://databunker.org/",
+  "docker_image": "securitybunker/databunker:0.8.38",
+  "version": "0.8.38",
+  "repository": "https://github.com/waskevin/tnas-app-databunker",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "Databunker container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}
